@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi there! I'm Feeza Kulsoom
 
-<!--
-**FEEZAKULSOOM/FEEZAKULSOOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Software Engineering student** driven by curiosity, creativity, and a love for building useful things with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm Learning
+
+I'm actively working on:
+
+- **C++ Programming** – mastering core concepts, OOP, and mini systems
+- **Frontend Web Development** – HTML, CSS, JavaScript (React coming soon!)
+
+
+---
+
+## 🎯 My Goal
+
+To become a **skilled Full Stack Developer** capable of building complete and modern web applications.
+
+---
+
+## 🛠️ Current Projects
+
+- 🔹 C++ Based Systems (Restaurant Management System , Samrt Campus Management System)
+
+---
+
+## 📘 Areas of Interest
+
+- 🔍 **Logic Building & Problem Solving**  
+- 🧠 **System Thinking & Software Design**  
+- 🕸️ **Building Scalable Web Apps**  
+- 🧪 **Debugging & Code Optimization** 
+- 🧩 **User-Centered Software Development**
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaboration, learning, and sharing ideas.  
+Feel free to check out my projects and connect with me here on GitHub.
+
+- 📩 Email: batoolfarid947@gmail.com  
+
+
+---
+
+> _“Code is not just syntax, it's the art of solving problems beautifully.”_ 
+
+
