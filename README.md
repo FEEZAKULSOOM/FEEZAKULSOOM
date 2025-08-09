@@ -1,51 +1,51 @@
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.jpg" alt="Coding illustration" width="400">
+</p>
+
 # 👋 Hi there! I'm Feeza Kulsoom
 
-🎓 I'm a **Software Engineering student** driven by curiosity, creativity, and a love for building useful things with code.
+🎓 **Aspiring Software Engineer** | **C++ Enthusiast** | **Problem Solver**
 
 ---
 
-## 💻 What I'm Learning
+## 🚀 About Me
 
-I'm actively working on:
-
-- **C++ Programming** – mastering core concepts, OOP, and mini systems
-- **Frontend Web Development** – HTML, CSS, JavaScript (React coming soon!)
-
+I'm a passionate learner on the journey to becoming a skilled software engineer. My current focus is mastering foundational programming concepts while building practical projects.
 
 ---
 
-## 🎯 My Goal
+## 🔧 Technical Skills
 
-To become a **skilled Full Stack Developer** capable of building complete and modern web applications.
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+</p>
 
----
-
-## 🛠️ Current Projects
-
-- 🔹 C++ Based Systems (Restaurant Management System , Samrt Campus Management System)
-
----
-
-## 📘 Areas of Interest
-
-- 🔍 **Logic Building & Problem Solving**  
-- 🧠 **System Thinking & Software Design**  
-- 🕸️ **Building Scalable Web Apps**  
-- 🧪 **Debugging & Code Optimization** 
-- 🧩 **User-Centered Software Development**
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to collaboration, learning, and sharing ideas.  
-Feel free to check out my projects and connect with me here on GitHub.
-
-- 📩 Email: batoolfarid947@gmail.com  
+### 📚 Currently Learning
+- C++ 
 
 
 ---
 
-> _“Code is not just syntax, it's the art of solving problems beautifully.”_ 
+## 💼 Projects
 
+### 🏗️ C++ Systems
+- **Restaurant Management System** - Console-based ordering and inventory system
+- **Smart Campus Management** - Student/faculty management solution
 
+*(More projects coming soon!)*
+
+---
+
+## 🌱 My Development Journey
+
+```mermaid
+graph LR
+    A[Started with C++] --> B[Building Console Applications]
+    B --> C[Learning Data Structures]
+    C --> D[Exploring Web Development]
+    D --> E[Future: Full Stack Development]
