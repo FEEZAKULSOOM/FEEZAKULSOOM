@@ -1,6 +1,4 @@
 ![logo](https://github.com/FEEZAKULSOOM/FEEZAKULSOOM/blob/main/logo7.png)
-<br><br>
-
 
 <h1 align="center">Hi 👋, I'm Feeza Kulsoom</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
@@ -16,6 +14,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
+   <br><br>
     - 🌱 I'm currently learning C++ as my first programming language<br>
     - 🎯 Goal: To become a proficient software engineer<br>
     - 💡 Interested in: Problem solving and software development<br>    
