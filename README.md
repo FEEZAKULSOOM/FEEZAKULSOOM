@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Feeza Kulsoom</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
-<img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" align="right" alt="coding" width="400" >
+<img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" align="right" alt="coding" width="400" height="400" >
 
 - 🌱 I’m currently learning **c++ as my first programming language**
 
