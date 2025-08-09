@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="400">
-</p>
+
+  <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="400">
+
 
 # 👋 Hi there! I'm Feeza Kulsoom
 
