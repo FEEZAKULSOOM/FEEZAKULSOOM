@@ -21,8 +21,7 @@ I'm a passionate learner on the journey to becoming a skilled software engineer.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+  
 </p>
 
 ### 📚 Currently Learning
@@ -41,11 +40,4 @@ I'm a passionate learner on the journey to becoming a skilled software engineer.
 
 ---
 
-## 🌱 My Development Journey
 
-```mermaid
-graph LR
-    A[Started with C++] --> B[Building Console Applications]
-    B --> C[Learning Data Structures]
-    C --> D[Exploring Web Development]
-    D --> E[Future: Full Stack Development]
