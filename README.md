@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.jpg" alt="Coding illustration" width="400">
+  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="400">
 </p>
 
 # 👋 Hi there! I'm Feeza Kulsoom
