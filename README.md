@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGvkMSMRSM/3DWNiXKSfai0dFj5PM8ysA/edit?utm_content=DAGvkMSMRSM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/FEEZAKULSOOM/FEEZAKULSOOM/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Feeza Kulsoom</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" 
