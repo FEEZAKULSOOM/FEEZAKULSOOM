@@ -1,7 +1,7 @@
 ![logo](https://github.com/FEEZAKULSOOM/FEEZAKULSOOM/blob/main/logo3.png)
 <h1 align="center">Hi 👋, I'm Feeza Kulsoom</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
- <img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" 
+ <img src="" 
        style="border-radius:" 
        alt="coding"
        align="right"
