@@ -7,7 +7,8 @@
        align="right"
        width="300"
       height="250"
-   margin-left="300px">
+      background-color="blue"
+      margin-left="300px">
 
 
 <div style="display: flex; align-items: center;">
