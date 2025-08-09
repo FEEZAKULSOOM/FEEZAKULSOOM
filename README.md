@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Feeza Kulsoom</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/3f9cf38a-116d-11ee-b74f-03d8ed1ed29e/yvKlzf67SM.gif">
+<img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/coder-jAUpeq1je0">
 
 - 🌱 I’m currently learning **c++ as my first programming language**
 
