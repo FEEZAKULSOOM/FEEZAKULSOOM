@@ -1,18 +1,15 @@
 ![logo](https://github.com/FEEZAKULSOOM/FEEZAKULSOOM/blob/main/logo3.png)
 <h1 align="center">Hi 👋, I'm Feeza Kulsoom</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
-<!--  <img src="" 
+ <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" 
        style="border-radius:" 
        alt="coding"
        align="right"
        width="300"
       height="250"
       background-color="blue"
-      margin-left="300px"> -->
-      <div align="right">
-  <img src="https://github.com/FEEZAKULSOOM/FEEZAKULSOOM/raw/main/laptop.svg" width="400">
-</div>
-
+      margin-left="300px">
+     
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
