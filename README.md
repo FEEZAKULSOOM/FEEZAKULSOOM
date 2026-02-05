@@ -68,6 +68,13 @@
          height="40"
          style="border-radius: 10px;"/>
   </a>
+  <a href="#"  target="_blank" rel="noreferrer">
+    <img src="github.svg" 
+         alt="github"
+         width="40" 
+         height="40"
+         style="border-radius: 10px;"/>
+  </a>
 </p>
 
 <h3 align="left">Currently Learning:</h3>
