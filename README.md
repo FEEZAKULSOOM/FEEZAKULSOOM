@@ -54,6 +54,20 @@
          height="40"
          style="border-radius: 10px;"/>
   </a>
+  <a href="#"  target="_blank" rel="noreferrer">
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://www.citypng.com/photo/26174/js-javascript-round-logo-icon-png)" 
+         alt="js"
+         width="40" 
+         height="40"
+         style="border-radius: 10px;"/>
+  </a>
+  <a href="#"  target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+         alt="js
+         width="40" 
+         height="40"
+         style="border-radius: 10px;"/>
+  </a>
 </p>
 
 <h3 align="left">Currently Learning:</h3>
