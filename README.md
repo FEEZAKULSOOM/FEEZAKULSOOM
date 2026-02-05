@@ -15,7 +15,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
    <br><br>
-    - 🌱 I'm currently learning C++ as my first programming language<br>
+    - 🌱 I'm currently learning frontend development<br>
     - 🎯 Goal: To become a proficient software engineer<br>
     - 💡 Interested in: Problem solving and software development<br>    
 
@@ -80,5 +80,5 @@
 <h3 align="left">Currently Learning:</h3>
 <ul>
   <li>C++ (Core concepts, OOP, and Data Structures)</li>
-  <li>Web Development Fundamentals (HTML/CSS)</li>
+  <li>Web Development</li>
 </ul>
