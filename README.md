@@ -55,7 +55,7 @@
          style="border-radius: 10px;"/>
   </a>
   <a href="#"  target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://www.citypng.com/photo/26174/js-javascript-round-logo-icon-png)" 
+    <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://www.citypng.com/photo/26174/js-javascript-round-logo-icon-png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolJqWleEhrccsnUh8hTYkb8p5AmTrc75eXw&s)" 
          alt="js"
          width="40" 
          height="40"
