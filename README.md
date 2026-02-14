@@ -47,7 +47,7 @@ const feeza = {
 ```
 
 <h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="21px" height="20px">
   Currently Learning
 </h2>
 
