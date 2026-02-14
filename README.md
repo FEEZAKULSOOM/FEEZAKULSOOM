@@ -63,7 +63,7 @@ const feeza = {
 
 <!-- Basic Stats + Streaks -->
 <p align="center">
-  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=feezakulsoom&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true"/> -->
+  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=feezakulsoom&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
@@ -73,10 +73,10 @@ const feeza = {
 </p>
 
 <!-- Profile Summary Cards -->
-<!-- <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feezakulsoom&theme=tokyonight" />
-</p> -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feezakulsoom&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feezakulsoom&theme=tokyonight" />
+</p> 
+<p align="center">
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feezakulsoom&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /> -->
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feezakulsoom&theme=tokyonight" />
 </p>
