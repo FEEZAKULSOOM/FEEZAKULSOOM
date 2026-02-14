@@ -5,11 +5,12 @@
   </h1>
   <p><i>Aspiring Software Engineer | Frontend Development Enthusiast</i></p>
 
-  <a href="https://linkedin.com/in/feezakulsoom/">
+  <a href="https://linkedin.com/in/feezakulsoom">
     <img 
       src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" />
   </a>
+  
   <a href="https://github.com/FEEZAKULSOOM">
     <img 
       src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" 
