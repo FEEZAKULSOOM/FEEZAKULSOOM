@@ -1,4 +1,4 @@
-this issing  change email to feezakulsoom42@gmail.com only dont change anything 
+
 <div align="center">
   <h1>
     Hi 👋, I'm <strong>Feeza Kulsoom</strong>
