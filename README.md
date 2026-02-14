@@ -52,7 +52,7 @@ const feeza = {
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,tailwind,bootstrap" />
   <img src="https://skillicons.dev/icons?i=vscode" />
 </div>
 
@@ -72,37 +72,20 @@ const feeza = {
 
 <!-- Basic Stats + Streaks -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=percentile&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=your-github-username&theme=tokyonight&hide_border=true&background=00000000"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=feezakulsoom&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=feezakulsoom&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feezakulsoom&theme=tokyo-night&hide_border=true&bg_color=00000000" />
 </p>
 
-<!-- Top Languages -->
+<!-- Profile Summary Cards -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-github-username&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feezakulsoom&theme=tokyonight" />
 </p>
-
-<h2 align="left">
-  📫 Connect With Me
-</h2>
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/your-github-username" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feezakulsoom&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feezakulsoom&theme=tokyonight" />
 </p>
-
----
-
-<div align="center">
-  <i>✨ Keep coding, keep learning, keep growing ✨</i>
-</div>
-```
