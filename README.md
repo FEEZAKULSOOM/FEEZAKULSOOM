@@ -15,11 +15,7 @@
       src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub" />
   </a>
-  <a href="https://www.npmjs.com/package/your-npm-package">
-    <img 
-      src="https://img.shields.io/badge/CLI-npx_feezakulsoom-24283B?style=for-the-badge&logo=npm&logoColor=white" 
-      alt="CLI Card" />
-  </a>
+
 </div>
 
 <p align="center">
