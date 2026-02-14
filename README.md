@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>
-    Hi 👋, I'M <strong>Feeza Kulsoom</strong>
+    Hi 👋, I'm <strong>Feeza Kulsoom</strong>
   </h1>
   <p><i>Aspiring Software Engineer | Frontend Development Enthusiast</i></p>
 
