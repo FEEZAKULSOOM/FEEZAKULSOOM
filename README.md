@@ -1,6 +1,4 @@
-Here's your README with just the email changed and the Achievements section added exactly as shown in your image:
-
-```markdown
+this issing  change email to feezakulsoom42@gmail.com only dont change anything 
 <div align="center">
   <h1>
     Hi 👋, I'm <strong>Feeza Kulsoom</strong>
@@ -58,7 +56,6 @@ const feeza = {
   <img src="https://skillicons.dev/icons?i=vscode" />
 </div>
 
-
 <h2 align="left">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
   GitHub Analytics
@@ -83,39 +80,3 @@ const feeza = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feezakulsoom&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feezakulsoom&theme=tokyonight" />
 </p>
-
-<h2 align="left">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
-  Achievements
-</h2>
-
-Total Stars Earned:    556  
-Total Commits (last year):  284  
-Total PRs:    193  
-Total Issues:    38  
-Contributed to (last year): 6  
-
-23.8%
-
-<h2 align="left">
-  📫 Connect With Me
-</h2>
-
-<p align="left">
-  <a href="https://linkedin.com/in/feezakulsoom" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/FEEZAKULSOOM" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="mailto:feezakulsoom42@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <i>✨ Keep coding, keep learning, keep growing ✨</i>
-</div>
-```
