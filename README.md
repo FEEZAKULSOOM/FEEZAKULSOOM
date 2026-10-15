@@ -1,9 +1,8 @@
-
 <div align="center">
   <h1>
     Hi 👋, I'm <strong>Feeza Kulsoom</strong>
   </h1>
-  <p><i>Aspiring Software Engineer | Frontend Development Enthusiast</i></p>
+  <p><i>Full-Stack MERN Developer | React & Node.js Web Applications</i></p>
 
   <a href="https://linkedin.com/in/feezakulsoom">
     <img 
@@ -34,48 +33,14 @@
 ```js
 const feeza = {
   name: 'Feeza Kulsoom',
-  current: 'Learning Frontend Development',
-  goal: 'To become a proficient software engineer',
-  interest: ['Problem Solving', 'Software Development', 'Frontend Engineering'],
+  title: 'Full-Stack MERN Developer',
+  focus: 'Building responsive, scalable web applications & APIs',
+  interest: ['Full-Stack Development', 'RESTful API Architecture', 'Modern UI/UX'],
   tech: {
-    Frontend: ['HTML', 'CSS', 'JavaScript', 'React' ,'Tailwind' , 'Bootstrap'],
-    Tools: ['Git', 'VS Code'],
-    Learning: ['Frontend Development', 'Problem Solving'],
+    frontend: ['React', 'JavaScript (ES6+)', 'Tailwind CSS', 'HTML5', 'CSS3', 'Bootstrap'],
+    backend: ['Node.js', 'Express.js', 'RESTful APIs', 'JWT Authentication'],
+    database: ['MongoDB', 'Mongoose'],
+    tools: ['Git', 'GitHub', 'VS Code', 'Postman', 'Vercel'],
   },
-  funFact: "Coding my way to becoming a software engineer, one line at a time! ✨"
+  funFact: "Transforming ideas into scalable full-stack web applications, one commit at a time! ✨"
 };
-```
-
-<h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="21px" height="20px">
-  Currently Learning
-</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</div>
-
-<h2 align="left">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
-  GitHub Analytics
-</h2>
-
-<!-- Basic Stats + Streaks -->
-<p align="center">
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=feezakulsoom&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
-
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feezakulsoom&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-</p>
-
-<!-- Profile Summary Cards -->
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feezakulsoom&theme=tokyonight" />
-</p> 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feezakulsoom&theme=tokyonight" />
-</p>
