@@ -38,7 +38,7 @@ const feeza = {
   focusAreas: ['Full-Stack Systems', 'Software Engineering', 'Applied AI/ML'],
   futureGoals: ['AI/ML Engineering', 'Training AI Models', 'AI/ML Research'],
   tech: {
-    Frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS'],
+    Frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Next.js', 'Tailwind CSS'],
     Backend: ['Node.js', 'Express.js', 'RESTful APIs'],
     Database: ['MongoDB'],
     WorkspaceAndTools: ['Git', 'GitHub', 'VS Code', 'Postman', 'Vercel', 'Google Colab', 'Jupyter Notebook'],
