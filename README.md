@@ -42,12 +42,7 @@ const feeza = {
     Backend: ['Node.js', 'Express.js', 'RESTful APIs'],
     Database: ['MongoDB'],
     WorkspaceAndTools: ['Git', 'GitHub', 'VS Code', 'Postman', 'Vercel', 'Google Colab', 'Jupyter Notebook'],
-    AIMLLibrariesAndAlgorithms: [
-      'NumPy (actively learning / learning phase)',
-      'Pandas (actively learning / learning phase)',
-      'Scikit-learn (actively learning / learning phase)',
-      'Classical & Supervised ML Algorithms (actively learning / to be learned in learning phase)'
-    ],
+    AIMLLibrariesAndAlgorithms: ['NumPy', 'Pandas', 'Scikit-learn', 'Classical & Supervised ML Algorithms (in learning phase)'],
   },
   funFact: "Turning ideas into functional web applications, one line at a time! ✨"
 };
