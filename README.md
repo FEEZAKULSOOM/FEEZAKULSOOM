@@ -1,145 +1,262 @@
 <div align="center">
-  <h1>
-    Hi 👋, I'm <strong>Feeza Kulsoom</strong>
-  </h1>
-  <p><i>Full-Stack MERN Developer | Actively Learning AI &amp; ML | Future Goals: AI/ML Engineering, Model Training &amp; Research</i></p>
 
-  <a href="https://linkedin.com/in/feezakulsoom">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn" />
-  </a>
+# Feeza Kulsoom
 
-  <a href="https://github.com/FEEZAKULSOOM">
-    <img 
-      src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" 
-      alt="GitHub" />
-  </a>
+### Software Engineering · Full-Stack Development · Artificial Intelligence
+
+**Building software systems today. Exploring intelligent systems for tomorrow.**
+
+<br/>
+
+<a href="https://linkedin.com/in/feezakulsoom">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/FEEZAKULSOOM">
+<img src="https://img.shields.io/badge/GitHub-Explore_Projects-161B22?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=FEEZAKULSOOM&style=flat-square&color=64748b&label=PROFILE+VIEWS" />
 
 </div>
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=FEEZAKULSOOM&style=for-the-badge&color=24283B" 
-    alt="Profile Views" />
+---
+
+## About
+
+I am a Software Engineering student and Full-Stack MERN Developer interested in building scalable web applications, understanding intelligent systems, and exploring the intersection of software engineering and artificial intelligence.
+
+My journey currently spans two complementary areas:
+
+- **Software Engineering:** Designing and developing full-stack applications, working with APIs, databases, authentication, and modern frontend technologies.
+- **Artificial Intelligence & Machine Learning:** Developing foundational knowledge of machine learning algorithms, data analysis, mathematical foundations, and the broader process of building and training intelligent models.
+
+I believe strong engineering is built on understanding how systems work, not just making them work.
+
+---
+
+## Research & Technical Interests
+
+My evolving interests lie in the foundations and practical applications of intelligent systems.
+
+| Area | Interests |
+|---|---|
+| Artificial Intelligence | Intelligent systems, AI applications, AI engineering |
+| Machine Learning | Supervised learning, classical ML algorithms, model evaluation |
+| Deep Learning | Neural networks and deep learning fundamentals |
+| AI Research | Model training, experimentation, research methodologies |
+| Data Science | Data preprocessing, analysis, feature engineering |
+| Software Engineering | Architecture, modularity, maintainability, scalable systems |
+| Human-Centered AI | Reliable, responsible, and useful AI-powered applications |
+
+*These are developing interests and learning areas, with a focus on building foundational knowledge and gaining practical experience.*
+
+---
+
+## Engineering Stack
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-<h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
-  About Me 
-</h2>
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Next.js
+- Tailwind CSS
 
-```yaml
-feeza:
-  name: Feeza Kulsoom
-  current: Building Full-Stack Web Applications & Actively Learning AI/ML
-  role: Full-Stack MERN Developer
-  experience:
-    - Interning at Firstricoz
-  focus_areas:
-    - Full-Stack Systems
-    - Software Engineering
-    - Applied AI/ML
-  future_goals:
-    - AI/ML Engineering
-    - Training AI Models
-    - AI/ML Research
-  tech:
-    frontend:
-      - HTML
-      - CSS
-      - JavaScript
-      - React
-      - Next.js
-      - Tailwind CSS
-    backend:
-      - Node.js
-      - Express.js
-      - RESTful APIs
-    database:
-      - MongoDB
-    workspace_and_tools:
-      - Git
-      - GitHub
-      - VS Code
-      - Postman
-      - Vercel
-      - Google Colab
-      - Jupyter Notebook
-    ai_ml_libraries_and_algorithms:
-      - NumPy, Pandas, Scikit-learn, Classical & Supervised ML Algorithms (in learning phase)
-  fun_fact: "Turning ideas into functional web applications, one line at a time! ✨"
+### Backend Development
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- RESTful APIs
+- Server-side application development
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+- MongoDB
+- NoSQL database fundamentals
+- Database integration with MERN applications
+
+### AI · ML · Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+</p>
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Classical Machine Learning Algorithms
+- Supervised Learning
+- Data Analysis
+- Machine Learning Fundamentals
+- Model Training & Evaluation *(learning)*
+
+### Research & Computational Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=anaconda,jupyter" />
+</p>
+
+- Jupyter Notebook
+- Google Colab
+- Anaconda
+- Python-based experimentation
+- Data exploration and computational workflows
+
+### Developer Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
+
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- Vercel
+
+---
+
+## Selected Engineering Work
+
+I focus on building practical applications that combine frontend interfaces, backend logic, database integration, and real-world functionality.
+
+### HabitatX — Property Rental Platform
+
+A full-stack property rental platform designed around property discovery, user experiences, listings, and rental workflows.
+
+**Engineering focus:**
+
+- MERN architecture
+- Frontend and backend integration
+- MongoDB database design
+- REST API development
+- Authentication workflows
+- Property discovery and filtering
+- Scalable application architecture
+
+### S-Hive
+
+A web application project exploring modern frontend development and application functionality.
+
+**Engineering focus:**
+
+- React
+- Component-based development
+- Application state management
+- UI development
+
+### Fresh Bite
+
+A modern frontend application built using contemporary JavaScript development tools.
+
+**Engineering focus:**
+
+- React
+- Vite
+- Tailwind CSS
+- Responsive UI development
+
+---
+
+## Professional Experience
+
+### Full-Stack Development Intern
+
+**Firstricoz**
+
+Currently gaining professional experience through an internship, exploring practical software development workflows, application development, and technical problem-solving.
+
+---
+
+## Academic Background
+
+**Bachelor of Science in Software Engineering**
+
+University of Azad Jammu & Kashmir
+
+My academic journey includes software development, engineering principles, programming, machine learning, deep learning, software construction, and emerging computing technologies.
+
+---
+
+## Current Learning Trajectory
+
+```text
+SOFTWARE ENGINEERING
+├── Full-Stack Application Development
+├── React & Next.js
+├── Node.js & Express
+├── REST APIs
+└── MongoDB
+
+ARTIFICIAL INTELLIGENCE
+├── Python for AI
+├── NumPy & Pandas
+├── Data Analysis
+├── Classical Machine Learning
+├── Supervised Learning
+├── Scikit-learn
+└── Model Evaluation
+
+RESEARCH & FUTURE EXPLORATION
+├── Deep Learning
+├── Neural Networks
+├── AI Model Training
+├── AI Engineering
+└── Machine Learning Research
 ```
 
-<h2 align="left">
+---
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="21px" height="20px">
-
-Currently Learning
-
-</h2>
-
-
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FEEZAKULSOOM&theme=tokyo-night&hide_border=true&bg_color=00000000" />
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,vercel" />
+<br/><br/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FEEZAKULSOOM&theme=tokyonight&hide_border=true&background=00000000" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FEEZAKULSOOM&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FEEZAKULSOOM&theme=tokyonight" />
 
 </div>
 
+---
 
+## Beyond the Code
 
-<h2 align="left">
+I enjoy transforming ideas into functional applications, learning the foundations behind emerging technologies, exploring engineering challenges, and continuously improving the way I design and build software.
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
+My long-term direction is toward **AI/ML Engineering, intelligent systems, model development, and research-oriented computing.**
 
-GitHub Analytics
+---
 
-</h2>
+<div align="center">
 
+### Building. Learning. Experimenting. Evolving.
 
+*One system, one experiment, and one line of code at a time.*
 
-<!-- Basic Stats + Streaks -->
-
-
-
-<p align="center">
-
-
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=feezakulsoom&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</p>
-
-
-
-<!-- Contribution Activity Graph -->
-
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=feezakulsoom&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-
-</p>
-
-
-
-<!-- Profile Summary Cards -->
-
-
-
-<p align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feezakulsoom&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feezakulsoom&theme=tokyonight" />
-
-</p>
+</div>
