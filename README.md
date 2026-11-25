@@ -70,8 +70,7 @@ feeza:
       - NumPy, Pandas, Scikit-learn, Classical & Supervised ML Algorithms (in learning phase)
   fun_fact: "Turning ideas into functional web applications, one line at a time! ✨"
 
-
-
+```
 
 <h2 align="left">
 
