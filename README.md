@@ -2,7 +2,7 @@
   <h1>
     Hi 👋, I'm <strong>Feeza Kulsoom</strong>
   </h1>
-  <p><i>Full-Stack MERN Developer | Actively Learning AI &amp; ML | Future Goals: AI/ML Engineering, Training AI Models &amp; AI/ML Research</i></p>
+  <p><i>Full-Stack MERN Developer | Actively Learning AI &amp; ML | Future Goals: AI/ML Engineering, Model Training &amp; Research</i></p>
 
   <a href="https://linkedin.com/in/feezakulsoom">
     <img 
@@ -34,29 +34,15 @@ const feeza = {
   name: 'Feeza Kulsoom',
   current: 'Building Full-Stack Web Applications & Actively Learning AI/ML',
   role: 'Full-Stack MERN Developer',
-  goal: 'To build scalable, responsive, and user-focused web applications and transition into AI/ML Engineering, training AI models, and AI/ML research',
-  interest: [
-    'Problem Solving',
-    'Full-Stack Development',
-    'Software Engineering',
-    'Artificial Intelligence & Machine Learning',
-    'Training AI Models',
-    'AI/ML Research'
-  ],
-  futureGoals: [
-    'AI/ML Engineering',
-    'Training AI Models',
-    'AI/ML Research'
-  ],
-  experience: [
-    'Interning at Firstricoz',
-    'Interning at Mercedes-Benz Research and Development India Private Limited'
-  ],
+  experience: ['Interning at Firstricoz'],
+  focusAreas: ['Full-Stack Systems', 'Software Engineering', 'Applied AI/ML'],
+  futureGoals: ['AI/ML Engineering', 'Training AI Models', 'AI/ML Research'],
   tech: {
     Frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS'],
     Backend: ['Node.js', 'Express.js', 'RESTful APIs'],
     Database: ['MongoDB'],
-    Tools: ['Git', 'GitHub', 'VS Code', 'Postman', 'Vercel'],
+    WorkspaceAndTools: ['Git', 'GitHub', 'VS Code', 'Postman', 'Vercel', 'Google Colab', 'Jupyter Notebook'],
+    AIMLLibrariesAndAlgorithms: ['NumPy', 'Pandas', 'Scikit-learn', 'Classical & Supervised ML Algorithms'],
   },
   funFact: "Turning ideas into functional web applications, one line at a time! ✨"
 };
