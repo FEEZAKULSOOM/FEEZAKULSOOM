@@ -44,7 +44,7 @@ My evolving interests lie in the foundations and practical applications of intel
 |---|---|
 | Artificial Intelligence | Intelligent systems, AI applications, AI engineering |
 | Machine Learning | Supervised learning, classical ML algorithms, model evaluation |
-| Deep Learning | Neural networks and deep learning fundamentals |
+| Digital Image Processing | Image analysis, filtering, feature extraction fundamentals |
 | AI Research | Model training, experimentation, research methodologies |
 | Data Science | Data preprocessing, analysis, feature engineering |
 | Software Engineering | Architecture, modularity, maintainability, scalable systems |
@@ -93,23 +93,23 @@ My evolving interests lie in the foundations and practical applications of intel
 ### AI · ML · Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
 - Python
 - NumPy
 - Pandas
 - Scikit-learn
-- Classical Machine Learning Algorithms
-- Supervised Learning
+- Classical Machine Learning Algorithms *(in learning phase)*
+- Supervised Learning *(in learning phase)*
 - Data Analysis
 - Machine Learning Fundamentals
-- Model Training & Evaluation *(learning)*
+- Model Training & Evaluation *(in learning phase)*
 
 ### Research & Computational Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=anaconda,jupyter" />
+<img src="https://skillicons.dev/icons?i=anaconda" />
 </p>
 
 - Jupyter Notebook
@@ -136,6 +136,18 @@ My evolving interests lie in the foundations and practical applications of intel
 
 I focus on building practical applications that combine frontend interfaces, backend logic, database integration, and real-world functionality.
 
+### Feroza — E-Commerce Web Application
+
+A full-stack MERN e-commerce platform featuring product browsing, shopping cart state management, voice-command navigation, and an admin order management interface.
+
+**Engineering focus:**
+
+- MERN architecture
+- Frontend and backend integration
+- REST APIs and authentication
+- Media handling and order workflows
+- Responsive storefront and admin interfaces
+
 ### HabitatX — Property Rental Platform
 
 A full-stack property rental platform designed around property discovery, user experiences, listings, and rental workflows.
@@ -146,41 +158,18 @@ A full-stack property rental platform designed around property discovery, user e
 - Frontend and backend integration
 - MongoDB database design
 - REST API development
-- Authentication workflows
-- Property discovery and filtering
-- Scalable application architecture
-
-### S-Hive
-
-A web application project exploring modern frontend development and application functionality.
-
-**Engineering focus:**
-
-- React
-- Component-based development
-- Application state management
-- UI development
-
-### Fresh Bite
-
-A modern frontend application built using contemporary JavaScript development tools.
-
-**Engineering focus:**
-
-- React
-- Vite
-- Tailwind CSS
-- Responsive UI development
+- Role-based JWT authentication workflows
+- Property discovery, booking, and review moderation
 
 ---
 
 ## Professional Experience
 
-### Full-Stack Development Intern
+### MERN Stack Developer Intern
 
 **Firstricoz**
 
-Currently gaining professional experience through an internship, exploring practical software development workflows, application development, and technical problem-solving.
+Currently gaining professional experience through a remote internship, contributing to full-stack web features, application logic, and end-to-end data workflows.
 
 ---
 
@@ -190,7 +179,7 @@ Currently gaining professional experience through an internship, exploring pract
 
 University of Azad Jammu & Kashmir
 
-My academic journey includes software development, engineering principles, programming, machine learning, deep learning, software construction, and emerging computing technologies.
+My academic journey includes software development, engineering principles, programming, machine learning, digital image processing, software construction, and emerging computing technologies.
 
 ---
 
@@ -214,8 +203,7 @@ ARTIFICIAL INTELLIGENCE
 └── Model Evaluation
 
 RESEARCH & FUTURE EXPLORATION
-├── Deep Learning
-├── Neural Networks
+├── Digital Image Processing
 ├── AI Model Training
 ├── AI Engineering
 └── Machine Learning Research
